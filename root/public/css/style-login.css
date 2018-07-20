@@ -1,0 +1,46 @@
+body{
+	background-image: url("img/login-bg.jpg");	
+}
+
+#formGroupExampleInput{
+	max-width: 100%;
+}
+
+#formGroupExampleInput2{
+	max-width: 100%;
+}
+
+#button-daftar{
+	margin-right: 30px;
+}
+
+form{
+	padding-top: 30px;
+}
+
+#form1{
+	box-shadow: 5px 5px grey;
+	padding-bottom: 30px;
+	padding-right: 30px;
+	border-radius: 15px;
+	margin-top: 50px;
+	border: 2px solid grey;
+}
+
+.box {
+	position: relative;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, 10%);
+	background-color: black;
+	height: 150px;
+	width: 150px;
+	margin-top: -20px;
+	display: box;
+}
+
+#logo2{
+	width: 100px;
+	margin:0 auto;
+	padding-top: 50%;
+  }

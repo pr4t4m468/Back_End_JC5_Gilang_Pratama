@@ -1,0 +1,27 @@
+#cards{
+    color:#ff00ff;
+}
+#cards h5{
+  color:#ff00ff;
+  text-align: left;
+}
+
+#profile_display{
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+#photo{
+    margin: auto;
+}
+
+#form-profile{
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+#btnb{
+    margin-bottom: 10px;
+    margin-right: 10px;
+    float: right;
+}

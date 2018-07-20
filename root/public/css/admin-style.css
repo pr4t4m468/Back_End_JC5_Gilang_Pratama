@@ -1,0 +1,85 @@
+.sidenav {
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    color: white;
+    display: block;
+}
+
+#side{
+    padding-top: 80px;
+}
+
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+}
+
+#catg{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+#jdl{
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+#desc{
+    margin-bottom: 20px;
+}
+
+#add-catg :hover{
+    opacity: 1;
+}
+
+#addprod{
+    display: table;
+    width: 160px;
+    height: 160px;
+    border: 2px dashed grey;
+    border-radius: 20px;
+    margin: 10px;
+    text-align: center;
+
+}
+
+#cardprod{
+    margin-top: 20px;
+}
+
+#plus-box{
+    display: table-cell;
+    vertical-align: middle;
+    color: grey;
+}
+
+#addprod-detail{
+    display: table;
+    width: 50px;
+    height: 50px;
+    border: 2px dashed grey;
+    border-radius: 5px;
+    margin: 10px;
+    text-align: center;
+}
+
+#fadd-prod1{
+    margin-top: 10px;
+    margin-left: -30px;
+}
+
+#fadd-prod2{
+    margin-top: 10px;
+}
